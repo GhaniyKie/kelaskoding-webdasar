@@ -1,0 +1,15 @@
+.logo {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+
+a#home {
+    color: red;
+}
+
+a.links {
+    color: green;
+}
